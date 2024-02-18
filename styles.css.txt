@@ -1,0 +1,14 @@
+/* Style pour l'étiquette du nœud */
+.node-label {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #333; /* Couleur du texte */
+}
+
+/* Style pour la ligne verticale */
+.node-line {
+    background-color: #999; /* Couleur de la ligne */
+    min-width: 2px; /* Largeur minimale de la ligne */
+    min-height: 20px; /* Hauteur minimale de la ligne */
+}
